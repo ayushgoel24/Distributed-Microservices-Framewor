@@ -28,6 +28,8 @@ This repository houses a scalable microservices architecture for managing real-t
 
 The platform is architected to handle the dynamic nature of e-commerce operations, ensuring high performance and scalability across various services.
 
+![Architecture](https://github.com/ayushgoel24/Distributed-Microservices-Framework/blob/main/docs/architecture.png)
+
 ### 1. Microservices Framework:
 
 - Go: The microservices are developed in Go, chosen for its efficiency, concurrency model, and suitability for building high-performance systems.
