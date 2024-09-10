@@ -28,7 +28,7 @@ This repository houses a scalable microservices architecture for managing real-t
 
 The platform is architected to handle the dynamic nature of e-commerce operations, ensuring high performance and scalability across various services.
 
-![Architecture](https://github.com/ayushgoel24/Distributed-Microservices-Framework/blob/main/docs/architecture.png)
+![Architecture](https://github.com/ayushgoel24/Distributed-Microservices-Framework/blob/master/docs/architecture.png)
 
 ### 1. Microservices Framework:
 
